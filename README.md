@@ -1,5 +1,6 @@
 <h1 align="center">Yeah, I'm Chaotic</h1>
 <h3 align="center">A full stack web developer, among other things</h3>
+<h3 align="center"><a href="https://chaotiz.vercel.app" target="_blank">My Portfolio</a></h3>
 
 ---
 
